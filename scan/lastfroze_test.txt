@@ -1,0 +1,1 @@
+<LoadMeasuremtWithPrinting><Barcode>10034242412341342</Barcode><Length>280</Length><Height>88</Height><Width>389</Width><Weight>967</Weight></LoadMeasuremtWithPrinting><LoadMeasuremtWithPrinting><Barcode>BARCODE</Barcode><Length>0</Length><Height>0</Height><Width>0</Width><Weight>0</Weight></LoadMeasuremtWithPrinting>
