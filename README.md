@@ -22,7 +22,7 @@
 ## 📦 Установка и запуск
 
 ### Требования
-- PHP ≥ 8.1 (с расширениями: mysqli, pdo_mysql, serial, zip)
+- PHP ≥ 7.4 (с расширениями: mysqli, pdo_mysql, serial, zip)
 - MySQL
 - Веб-сервер (Apache/Nginx)
 
